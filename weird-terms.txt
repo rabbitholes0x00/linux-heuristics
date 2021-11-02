@@ -1,0 +1,16 @@
+* GNU(GNU's Not Unix)
+* Kernel - 
+* Boot Loader- 
+* UEFI & BIOS - 
+* GPT & MBR - 
+* TTY - 
+* Mounting - 
+* X11
+* Dynamic Linking Library(DLL)
+* Package Manager
+* Repository
+	* PPA
+	* AUR
+* 
+*
+* 

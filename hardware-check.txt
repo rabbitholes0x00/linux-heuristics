@@ -1,0 +1,27 @@
+@
+cat /etc/*-release
+@
+lsb_release -a
+@
+cat /proc/version
+@
+uname -a
+@
+lscpu
+@
+watch sensors
+@
+
+@
+
+@
+
+@
+sudo dmidecode
+sudo dmidecode -t0
+
+@
+lsblk 
+
+@
+sudo apt install hardinfo

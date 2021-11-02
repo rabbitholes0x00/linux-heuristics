@@ -1,0 +1,15 @@
+$ cd /home/kali
+$ pwd
+$ ls
+$ ll
+$ ls -a
+$ l, ls -lah
+$ touch file
+$ mkdir folder
+$ cp src dst
+$ cp -R src dst
+$ mv src dst
+$ rm file
+$ rmdir folder
+$ cat
+$ echo "text" > file.txt

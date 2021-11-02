@@ -1,0 +1,13 @@
+$ ifconfig
+$ ping
+$ route
+$ traceroute
+$ tracepath
+$ mtr
+$ nmap
+$ netstat
+$ dig
+$ nslookup
+$ host
+$ ipcalc
+$ whois

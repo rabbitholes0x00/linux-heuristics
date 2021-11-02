@@ -1,0 +1,16 @@
+## Services
+* sudo systemctl [app] disable enable restart status // auto start after login
+* sudo service [app] start restart stop reload // on/off app
+
+List of App:
+* apache2
+* mysql
+* postgresql
+
+## Others
+* && - And - run multiple commands 
+* || - Or - run true commands 
+* ; - Semicolones - end of commands
+* man - Manual - open manual (help) pages
+* nano - Nano's ANOther editor - free text editing program
+* clear or [CTRL + L] - Clear - clear the terminal screen
